@@ -1,2 +1,7 @@
-# projeto-luizacode
-Projeto LuizaCode
+#Projeto LuizaCode
+
+### 📌 Tecnologias usadas: 
+
+* Python;
+* FastAPI.
+
